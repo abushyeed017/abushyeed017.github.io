@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Name1:
+  name        : "Md Abu Shyeed"
+  uri         : "https://abushyeed017.github.io"
+  email       : "abushyeed01701@gmail.com"
+  bio         : "PhD Candidate in Analytical Chemistry | Single Molecule Detection | Biosensors | Super-resolution Imaging | Nanomaterials"
+  avatar      : "profile.png"
+  google_plus : "Md Abu Shyeed"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
