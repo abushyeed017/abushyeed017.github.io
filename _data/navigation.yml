@@ -15,7 +15,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks and conferences/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -32,5 +32,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+ - title: "Contact"
+    url: /contact/
