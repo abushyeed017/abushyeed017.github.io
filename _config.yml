@@ -23,7 +23,7 @@ repository               : "abushyeed017/abushyeed017.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Md Abu Shyeed"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Analytical Chemistry researching Single Molecule Detection, Biosensors, Super-resolution Imaging, and Nanomaterials"
